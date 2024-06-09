@@ -29,7 +29,7 @@ function App() {
         </>
       ) : (
         <>
-          <img src="\src\assets\FernBirthday.gif" alt="Fern Hungry" />
+          <img src="FernBirthday.gif" alt="Fern Hungry" />
           <div className="val-text">แฮปปี้เบิร์ดเดย์ครับนว้องเฟิร์นนนน รักพี่น้ำไหม เอ้ย!! อายุเท่ากันแล่วว</div>
           <div>
               <button className="button yes-button" style={{ fontSize: yesButtonSize }}
